@@ -11,7 +11,7 @@ This app has two main objectives; the first is to provide an overview of Scottis
 
 This tab allows the user to view the general health trend across Scotland by selecting an indicator from the drop down menu. General Health has been operationalised using 'Life Satisfaction', 'Mental Wellbeing' and 'Life Expectancy' as its indicators.
 
-![Smoking_trends_app](images/tab 1.png)
+![images](images/tab 1.png)
 
 <br>
 
@@ -19,7 +19,7 @@ This tab allows the user to view the general health trend across Scotland by sel
 
 This tab allows the user to view smoking and e-cigarette trends. The user can select one or multiple indicators, which will plot the results accordingly.
 
-![Smoking_trends_app](images/tab 2.png)
+![images](images/tab 2.png)
 
 <br>
 
@@ -27,7 +27,7 @@ This tab allows the user to view smoking and e-cigarette trends. The user can se
 
 This tab allows the user to view smoking and e-cigarette trends across Scotland on a map. The user can select either 'Smoking' or 'E-cigarette Use' and can also be filtered by sex. The results are then displayed on the map.
 
-![Smoking_trends_app](images/tab 3.png)
+![images](images/tab 3.png)
 
 <br>
 
@@ -35,9 +35,10 @@ This tab allows the user to view smoking and e-cigarette trends across Scotland 
 
 According to the CDC, smoking is a major risk factor for cardiovascular disease. The risk of heart attacks drop within a year of quitting smoking. Given this, we carried out a correlation to see if there was a statistically significant relationship between current smokers and cardiovascular conditions. We did not find a statistically significant correlation using the most recently available data.
 
-![Smoking_trends_app](images/tab 4.png)
+![images](images/tab 4.png)
 
 <br>
+
 
 
 
